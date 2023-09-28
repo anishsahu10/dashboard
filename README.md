@@ -1,4 +1,4 @@
-#[Google Cloud Progress Website](https://anishsahu10.github.io/dashboard/)
+# [Google Cloud Progress Website](https://anishsahu10.github.io/dashboard/)
 This is an application developed using `ReactJS`, `Material-UI` and `ChartJS`.
 Deployed on github-pages:
 [Google Cloud Progress Tracker](https://anishsahu10.github.io/dashboard/)
