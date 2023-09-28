@@ -1,7 +1,7 @@
-# Tracker app
+# Dashboard Website
 This is an application developed using `ReactJS`, `Material-UI` and `ChartJS`.
 Deployed on github-pages:
-[Stock Tracker App](https://shreyashree-17.github.io/stock-tracker-app/)
+[dashboard](https://anishsahu10.github.io/dashboard/)
 
 ## Features
 * Display data using bar chart, pie chart, etc. (`ChartJS` library used)
