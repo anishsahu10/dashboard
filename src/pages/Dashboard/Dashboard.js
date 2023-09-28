@@ -10,6 +10,7 @@ import UpdateChart from '../../components/Charts/UpdateChart';
 import ExpandedBarChart from '../../components/Charts/ExpandedBarChart';
 import PieChart from '../../components/Charts/PieChart';
 import WelcomeMsg from '../../components/WelcomeMsg/WelcomeMsg';
+import CustomizedTables from '../../components/Leaderboard/Leaderboard';
 
 export default function Dashboard({ handleThemeChange }) {
     const [isSidebarOpen, setIsSidebarOpen] = useState(true);
@@ -66,7 +67,8 @@ export default function Dashboard({ handleThemeChange }) {
                         <PieChart />
                     </Grid>
                 </Grid>
-            </Box>
+                <CustomizedTables/>
+            </Box>  
         </Box>
     );
 }

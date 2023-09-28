@@ -2,6 +2,58 @@ export const config = {
     headers: { 'X-Api-Key': 'Bq+LG2y8dM/qlvrJqT0L1g==yDoahbeL7xS5nA7h' },
 };
 
+export const leaderboard = [
+    { 
+        rank : 1, 
+        name : "Rakesh", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    },
+    { 
+        rank : 4, 
+        name : "Mukesh", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    },
+    { 
+        rank : 3, 
+        name : "Prathamesh", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    },
+    { 
+        rank : 6, 
+        name : "Divya", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    },
+    { 
+        rank : 5, 
+        name : "Rahul", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    },
+    { 
+        rank : 10, 
+        name : "Parv", 
+        courseC : 8,
+        SkillBadges: 9, 
+        GenAI : 4, 
+        TotalC : "Yes" 
+    }
+
+]
+
 export const barChartData = [
     {
         id: 1,
