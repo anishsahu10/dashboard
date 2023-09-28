@@ -1,7 +1,7 @@
 # Dashboard Website
 This is an application developed using `ReactJS`, `Material-UI` and `ChartJS`.
 Deployed on github-pages:
-[Dashboard](http://anishsahu10.github.io/dashboard)
+[dashboard](https://anishsahu10.github.io/dashboard/)
 
 ## Features
 * Display data using bar chart, pie chart, etc. (`ChartJS` library used)
