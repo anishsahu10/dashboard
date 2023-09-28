@@ -78,7 +78,7 @@ function LoginPage() {
             />
           </FormControl>
           <Button type="submit" variant="contained" color="primary" fullWidth>
-          <Link to="/stock-tracker-app" style={{ textDecoration: 'none', color: 'inherit' }}>  Log In</Link>
+          <Link to="/dashboard-website" style={{ textDecoration: 'none', color: 'inherit' }}>  Log In</Link>
           </Button>
         </form>
       </Paper>

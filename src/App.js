@@ -22,7 +22,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <BrowserRouter>
         <Routes>
-          <Route path='/stock-tracker-app' element={<SharedLayout />}>
+          <Route path='/dashboard' element={<SharedLayout />}>
             <Route index element={<Dashboard handleThemeChange={handleThemeChange} />}/>
           </Route>
           <Route path='login' element={<LoginPage/>} />

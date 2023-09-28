@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shreyashree-17.github.io/stock-tracker-app",
+  "homepage": "http://anishsahu10.github.io/dashboard",
   "name": "tracker-app",
   "version": "0.1.0",
   "private": true,
@@ -47,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   }
 }
